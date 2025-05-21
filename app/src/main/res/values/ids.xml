@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="main" type="id">linerLayout</item>
+    <item name="review_text" type="id">review_text</item>
+    <item name="retake_button" type="id">retake_button</item>
+</resources>
